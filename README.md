@@ -8,3 +8,8 @@ Steps:
 3. dir .\src\main\java\org\apache\beam\examples
 
 4. mvn compile exec:java -Dexec.mainClass=org.apache.beam.examples.WordCount -Dexec.args="--inputFile=sample.txt --output=counts" -Pdirect-runner
+
+
+Repo link:
+
+[repolink](https://github.com/Hkdp-Omtri/Java-word-count-beam.git)
